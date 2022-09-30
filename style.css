@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@vaneela 
+vaneela
+/
+JIRA-TICKET-MANAGEMENT-SYSTEM
+Public
+forked from itz-arnav/JIRA-TICKET-MANAGEMENT-SYSTEM
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+JIRA-TICKET-MANAGEMENT-SYSTEM/style.css
+@vaneela
+vaneela Update style.css
+Latest commit cf00c7d 26 minutes ago
+ History
+ 4 contributors
+@itz-arnav@axshatj@vaneela@silentkiller18
+153 lines (132 sloc)  2.27 KB
+
 *{
     box-sizing: border-box;
 }
@@ -50,14 +80,14 @@ body{
 }
 
 .blue{
-
+    background-color:rgb(0 128 1)
 }
 
 .green{
     background-color:lightgreen;
 }
 .black{
-
+    background-color:#054dc5
 }
 
 .add-btn{
@@ -151,3 +181,18 @@ body{
     font-size: 1.5rem;
     margin-left: 14.5rem;
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+JIRA-TICKET-MANAGEMENT-SYSTEM/style.css at cf00c7d668ab75c1b4bf6e1d2a9d261d66d7ec73 · vaneela/JIRA-TICKET-MANAGEMENT-SYSTEM
